@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![電撃ショートコント構築劇：完全サーバーレスの夜](./assets/current_infra_poster.png)
+![完全自動化工房の夜想曲](./assets/current_infra_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Curtain raised at: 2026-11-16T15:34:12.631386Z UTC (開演速報)*
+*Curtain raised at: 2026-11-16T15:40:26.650295Z UTC (開演速報)*
