@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![電撃ショートコント劇場](./assets/default_poster.png)
+![AIクラウド工場劇場：第6幕完全再現](./assets/current_infra_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Curtain raised at: 2026-11-16T14:33:17.423662Z UTC (開演速報)*
+*Curtain raised at: 2026-11-16T14:49:08.979153Z UTC (開演速報)*
