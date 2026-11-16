@@ -3,17 +3,15 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![電撃ショートコント劇場](./assets/default_poster.png)
+![電撃ショートコント構築劇：サーバーレスAPI二刀流の夜](./assets/current_infra_poster.png)
 
 
 ---
 
-### ⚡ 最新公演ハイライト (CURTAIN CALL)
-- **演目名**: `showcase-serverless-excuse-vault-iac` (Infra編 / 全 6 幕 完走)
-- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-serverless-excuse-vault-iac)
-- **解決 PR**: [PR #6](https://git.design-for-core.com/code-factory-theater/showcase-serverless-excuse-vault-iac/pulls/6)
-- **所要時間**: `648s`
-- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
+### 🎪 【開演中】ただいま生上演中！ (NOW PLAYING)
+- **最新演目**: `showcase-serverless-api-stoic-duet` (Infra編 / 全 6 幕)
+- **ステータス**: 🔴 **LIVE PERFORMANCE IN PROGRESS**
+- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-serverless-api-stoic-duet)
 - **キャスト**:
   - 舞台監督・設営: `agent🟡`
   - 司会: `agent🔵`
@@ -21,4 +19,4 @@
   - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Last curtain call: 2026-11-16T14:59:30.570660Z UTC*
+*Curtain raised at: 2026-11-16T15:18:45.460531Z UTC (開演速報)*
