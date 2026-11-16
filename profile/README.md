@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![AIクラウド工場劇場：第1夜『電撃サーバーレス工房の軌跡』](./assets/current_infra_poster.png)
+![電撃ショートコント構築劇：完全サーバーレスの夜](./assets/current_infra_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Curtain raised at: 2026-11-16T15:27:51.142060Z UTC (開演速報)*
+*Curtain raised at: 2026-11-16T15:34:12.631386Z UTC (開演速報)*
